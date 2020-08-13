@@ -99,7 +99,7 @@ namespace BinarySearchTree
             {
                 if (Right != null)
                 {
-                    if (Right.Value == Value)
+                    if (Right.Value == value)
                     {
                         return this;
                     }
@@ -113,7 +113,7 @@ namespace BinarySearchTree
             {
                 if (Left != null)
                 {
-                    if (Left.Value == Value)
+                    if (Left.Value == value)
                     {
                         return this;
                     }

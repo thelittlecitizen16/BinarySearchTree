@@ -1,0 +1,17 @@
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\CheckBTS.exe
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\CheckBTS.deps.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\CheckBTS.runtimeconfig.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\CheckBTS.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\CheckBTS.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\CheckBTS.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\BinarySearchTree.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\BinarySearchTree.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\bin\Debug\netcoreapp3.1\BinarySearchTree.dll.config
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.csproj.CopyComplete
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\BinarySearchTree - Students\CheckBTS\obj\Debug\netcoreapp3.1\CheckBTS.genruntimeconfig.cache

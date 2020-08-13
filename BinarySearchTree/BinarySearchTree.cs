@@ -37,7 +37,7 @@ namespace BinarySearchTree
         }
 
         public bool AddItem(int value)
-        {
+        {       
             return Root.AddItem(value);
         }
 
@@ -57,7 +57,7 @@ namespace BinarySearchTree
 
         public bool DeleteItem(int value)
         {
-            return Root.DeleteItem(value, null);
+            return Root.DeleteItem(value, Root.FindParentItem(value));
         }
 
         private void OrderBst()
